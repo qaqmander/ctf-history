@@ -1,0 +1,17 @@
+length == 0x10
+input[0] == 0x45, movzx
+input[0] + input[15] == 0x9b, movzx -> movsx
+input[1] == 0x5a, movzx
+input[1] + input[14] == 0x9b, movzx -> movsx
+input[2] == 0x39
+input[2] + input[13] == 0x9b
+input[3] == 0x64
+input[3] + input[12] == 0x9b
+input[4] == 0x6d
+input[4] + input[11] == 0xb4
+input[5] == 0x71
+input[5] + input[10] == 0xaa
+input[6] == 0x34
+input[6] + input[9] == 0x9b
+input[7] == 0x63
+input[7] + input[8] == 0x9b

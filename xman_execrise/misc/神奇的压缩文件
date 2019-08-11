@@ -1,0 +1,1 @@
+用winrar在命令行winrar Misc150.txt:Flag.zip后将右边的空格和制表符提取出来，是7-ascii，解码后得到flag

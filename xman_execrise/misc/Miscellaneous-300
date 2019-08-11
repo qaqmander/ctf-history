@@ -1,0 +1,1 @@
+写脚本解压2000多次之后得到一个zip，然后fcrackzip暴力破解之后得到mess.wav，查看频谱之后看到flag。

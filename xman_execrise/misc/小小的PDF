@@ -1,0 +1,1 @@
+binwalk跑一下发现有3个jpg，用dd提取出来就得到了flag
